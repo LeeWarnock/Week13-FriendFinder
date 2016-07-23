@@ -1,0 +1,21 @@
+{
+  "name": "Week13-FriendFinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeWarnock/Week13-FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "Lee Warnock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeWarnock/Week13-FriendFinder/issues"
+  },
+  "homepage": "https://github.com/LeeWarnock/Week13-FriendFinder#readme"
+}
