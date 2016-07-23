@@ -7,7 +7,7 @@ Friend Finder is acompatibility-based "FriendFinder" application -- basically a 
 ## Deployed
 https://friend-finder-lee-is-so-lonely.herokuapp.com
 ## Technologies Used
-Node, Express, Javascript, JQuery, HTML, CSS, Boostrap,
+Node, Express, Javascript, JQuery, HTML, CSS, Boostrap
 ## Screen Shots
 ![Survey Page Screenshot](https://unsplash.com/photos/67t2GJcD5PI.png "Survey Page")
 ![Results Page Screenshot](https://unsplash.com/photos/Rdsc2L517iQ.png "Resutls Page")
