@@ -17,14 +17,10 @@
   "bugs": {
     "url": "https://github.com/LeeWarnock/Week13-FriendFinder/issues"
   },
-  "homepage": "https://github.com/LeeWarnock/Week13-FriendFinder#readme"
+  "homepage": "https://github.com/LeeWarnock/Week13-FriendFinder#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "path": "^0.12.7",
-  },
-    "engines": {
-    "node": "5.10.1"
-  },
-  "start": "node server.js"
+    "path": "^0.12.7"
+  }
 }
