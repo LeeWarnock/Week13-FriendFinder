@@ -5,7 +5,7 @@ var path = require('path');
 
 //Express config
 var app = express();
-var PORT = process.env.PORT || 3000 /sets initial port
+//var PORT = process.env.PORT || 3000 /sets initial port
 
 //Bodyparser setup
 app.use(bodyParser.json());
