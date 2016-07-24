@@ -68,7 +68,7 @@ var friendsArray = [
             10,
             10
         ]
-    }
+    },
 
     {
         "name": "A Happy Dog",
