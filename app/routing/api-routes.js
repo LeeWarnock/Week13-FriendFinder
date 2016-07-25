@@ -20,7 +20,7 @@ module.exports = function(app){
 //Pushes to friends data and finds match
 
 		friendsData.push(req.body);
-		res.json(true);
+		res.json(friendsData);
 
 
 	});
